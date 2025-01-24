@@ -1,4 +1,5 @@
 # 2143-OOP
 # Ryan Darden
 #### Email: 9407821129rd@gmail.com
-#### Picture of me: ![IMG_0832 (1)](https://github.com/user-attachments/assets/215d5ba1-7239-4b37-a49c-db1ab47138ef)
+#### Picture of me: 
+![Headshot of me in suit](https://github.com/user-attachments/assets/fe37e4d9-7979-4330-b3b9-632d65302440)
